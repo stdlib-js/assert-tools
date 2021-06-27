@@ -25,7 +25,7 @@
     "test-cov": "make test-cov",
     "benchmark": "make benchmark"
   },
-  "homepage": "https://github.com/stdlib-js/stdlib",
+  "homepage": "https://stdlib.io",
   "repository": {
     "type": "git",
     "url": "git://github.com/stdlib-js/assert-tools.git"
