@@ -55,6 +55,14 @@ The namespace contains the following:
 
 <!-- <toc pattern="*"> -->
 
+<div class="namespace-toc">
+
+-   <span class="signature">[`arrayfcn( predicate )`][@stdlib/assert/tools/array-function]</span><span class="delimiter">: </span><span class="description">return a function which tests if every element in an array passes a test condition.</span>
+-   <span class="signature">[`arraylikefcn( predicate )`][@stdlib/assert/tools/array-like-function]</span><span class="delimiter">: </span><span class="description">return a function which tests if every element in an array-like object passes a test condition.</span>
+-   <span class="signature">[`typedarrayfcn( predicate )`][@stdlib/assert/tools/typed-array-function]</span><span class="delimiter">: </span><span class="description">return a function which tests if every element in a typed array passes a test condition.</span>
+
+</div>
+
 <!-- </toc> -->
 
 </section>
@@ -134,6 +142,16 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/assert-tools/main/LICENSE
+
+<!-- <toc-links> -->
+
+[@stdlib/assert/tools/array-function]: https://github.com/stdlib-js/assert-tools-array-function
+
+[@stdlib/assert/tools/array-like-function]: https://github.com/stdlib-js/assert-tools-array-like-function
+
+[@stdlib/assert/tools/typed-array-function]: https://github.com/stdlib-js/assert-tools-typed-array-function
+
+<!-- </toc-links> -->
 
 </section>
 
