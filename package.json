@@ -1,0 +1,42 @@
+{
+  "name": "@stdlib/assert-tools",
+  "version": "0.0.0",
+  "description": "Assertion utility tools.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/assert-tools.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdassert",
+    "assertion",
+    "assert",
+    "expectation",
+    "expect",
+    "utilities",
+    "utility",
+    "utils",
+    "util",
+    "test",
+    "check",
+    "validate",
+    "validation",
+    "valid",
+    "is",
+    "isvalid",
+    "type",
+    "tool",
+    "tools"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
