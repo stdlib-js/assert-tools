@@ -46,7 +46,7 @@
     "@stdlib/assert-is-boolean": "^0.2.1",
     "@stdlib/assert-is-even": "^0.2.1",
     "@stdlib/assert-is-typed-array": "^0.2.1",
-    "@stdlib/math-base-assert-is-even": "^0.2.1",
+    "@stdlib/math-base-assert-is-even": "^0.2.2",
     "@stdlib/math-base-special-pow": "^0.2.1",
     "@stdlib/string-format": "^0.2.1",
     "@stdlib/utils-keys": "^0.2.1",
