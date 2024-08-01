@@ -36,7 +36,7 @@
   "dependencies": {
     "@stdlib/assert-tools-array-function": "^0.2.2",
     "@stdlib/assert-tools-array-like-function": "^0.2.2",
-    "@stdlib/assert-tools-typed-array-function": "^0.2.1",
+    "@stdlib/assert-tools-typed-array-function": "^0.2.2",
     "@stdlib/utils-define-read-only-property": "^0.2.2"
   },
   "devDependencies": {
