@@ -2,16 +2,6 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
-
-## Unreleased (2025-03-24)
-
-No changes reported for this release.
-
-</section>
-
-<!-- /.release -->
-
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
@@ -36,26 +26,6 @@ No changes reported for this release.
 
 ## 0.2.0 (2024-02-14)
 
-<section class="packages">
-
-### Packages
-
-</section>
-
-<!-- /.packages -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
-
 <section class="commits">
 
 ### Commits
@@ -72,6 +42,18 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 <!-- /.commits -->
 
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
 </section>
 
 <!-- /.release -->
@@ -80,149 +62,15 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 ## 0.1.0 (2023-09-24)
 
-<section class="packages">
-
-### Packages
-
-<section class="package" id="assert-tools-v0.1.0">
-
-#### [@stdlib/assert/tools](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/assert/tools)
-
-<details>
-
 <section class="features">
 
-##### Features
+### Features
 
 -   [`5200ce2`](https://github.com/stdlib-js/stdlib/commit/5200ce2447b32d7a8d351daa5b1868194878d7be) - update minimum TypeScript version
 
 </section>
 
 <!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`5200ce2`](https://github.com/stdlib-js/stdlib/commit/5200ce2447b32d7a8d351daa5b1868194878d7be): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="assert-tools-array-function-v0.1.0">
-
-#### [@stdlib/assert/tools/array-function](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/assert/tools/array-function)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`5200ce2`](https://github.com/stdlib-js/stdlib/commit/5200ce2447b32d7a8d351daa5b1868194878d7be) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`5200ce2`](https://github.com/stdlib-js/stdlib/commit/5200ce2447b32d7a8d351daa5b1868194878d7be): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="assert-tools-array-like-function-v0.1.0">
-
-#### [@stdlib/assert/tools/array-like-function](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/assert/tools/array-like-function)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`5200ce2`](https://github.com/stdlib-js/stdlib/commit/5200ce2447b32d7a8d351daa5b1868194878d7be) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`5200ce2`](https://github.com/stdlib-js/stdlib/commit/5200ce2447b32d7a8d351daa5b1868194878d7be): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="assert-tools-typed-array-function-v0.1.0">
-
-#### [@stdlib/assert/tools/typed-array-function](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/assert/tools/typed-array-function)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`5200ce2`](https://github.com/stdlib-js/stdlib/commit/5200ce2447b32d7a8d351daa5b1868194878d7be) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`5200ce2`](https://github.com/stdlib-js/stdlib/commit/5200ce2447b32d7a8d351daa5b1868194878d7be): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
 
 <section class="breaking-changes">
 
@@ -235,18 +83,6 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.breaking-changes -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -262,6 +98,18 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
