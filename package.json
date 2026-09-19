@@ -48,7 +48,7 @@
     "@stdlib/assert-is-typed-array": "^0.2.3",
     "@stdlib/math-base-assert-is-even": "^0.2.5",
     "@stdlib/math-base-special-pow": "^0.3.1",
-    "@stdlib/string-format": "^0.2.3",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.3",
     "@stdlib/utils-keys": "^0.2.3",
     "@stdlib/utils-noop": "^0.2.3",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
